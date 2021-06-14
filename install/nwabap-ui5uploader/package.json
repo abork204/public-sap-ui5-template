@@ -1,0 +1,84 @@
+{
+  "_from": "nwabap-ui5uploader",
+  "_id": "nwabap-ui5uploader@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-QlvNolxEt0AG76mlwGg1+8WWaXSfPaYZnaJg29VS9XyFbzZIgZMrVE4eFtggd00UuScobdu1C9Y4yPPtRwEk1A==",
+  "_location": "/nwabap-ui5uploader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nwabap-ui5uploader",
+    "name": "nwabap-ui5uploader",
+    "escapedName": "nwabap-ui5uploader",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nwabap-ui5uploader/-/nwabap-ui5uploader-1.1.0.tgz",
+  "_shasum": "81ef31e07cc01c349e9d0878b3de68e66530466c",
+  "_spec": "nwabap-ui5uploader",
+  "_where": "C:\\Users\\axo\\source\\repos\\Training\\Training SAPUI5\\project1",
+  "author": {
+    "name": "Nick Rappoldt",
+    "email": "nickrappoldt@gmail.com"
+  },
+  "bin": {
+    "nwabap": "bin/nwabap.js"
+  },
+  "bugs": {
+    "url": "https://github.com/nrdev88/nwabap-ui5uploader/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "async": "^2.6.0",
+    "clear": "0.1.0",
+    "commander": "^2.13.0",
+    "execa": "^4.0.0",
+    "fancy-log": "^1.3.3",
+    "fast-glob": "^3.2.5",
+    "figlet": "^1.5.0",
+    "isbinaryfile": "^3.0.2",
+    "unirest": "^0.6.0",
+    "xmldoc": "^0.4.0"
+  },
+  "deprecated": false,
+  "description": "Deploying a SAPUI5/OpenUI5 file structure to SAP NetWeaver ABAP via ADT (ABAP Developer Tools)",
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 5.2.0"
+  },
+  "homepage": "https://nickrappoldt.nl",
+  "keywords": [
+    "npm module",
+    "NetWeaver",
+    "SAP",
+    "SAP NW",
+    "SAP deploy",
+    "SAP CI/CD",
+    "SAP ABAP",
+    "SAP UI5",
+    "UI5",
+    "ABAP",
+    "ADT",
+    "Web IDE",
+    "deploy",
+    "deployment",
+    "CI/CD",
+    "GitLab",
+    "Jenkins"
+  ],
+  "license": "MIT",
+  "main": "cli/bootstrap.js",
+  "name": "nwabap-ui5uploader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrdev88/nwabap-ui5uploader.git"
+  },
+  "version": "1.1.0"
+}

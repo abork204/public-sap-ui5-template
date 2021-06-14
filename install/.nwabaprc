@@ -1,0 +1,11 @@
+{
+    "base": "./dist",
+    "conn_usestrictssl" : false,
+    "conn_server": "http://entwe03.hr-appltest.de:8060/",
+    "conn_client" : "100",
+    "conn_user": "axo",
+    "conn_password": "<password>",
+    "abap_package": "$TMP",
+    "abap_bsp": "ZVSCODE_APP",
+    "abap_bsp_text": "UI5 upload through VSCode App"
+}
