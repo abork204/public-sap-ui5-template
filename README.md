@@ -1,2 +1,11 @@
-# public-sap-ui5-template
-Free SAPUI5 template that supports deployment to the SAP application server
+## SAPUI5 Template with transport support for SAP Application Server
+
+### Installation steps:
+
+1. clone this repository
+1. execute "npm install" in terminal (installation node_modules)
+1. execute "npm run sapupload-setup" in terminal (installation SAP Upload)
+   	
+### Run app:
+		
+1. execute "npm start" in terminal (testing)
