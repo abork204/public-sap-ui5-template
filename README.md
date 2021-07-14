@@ -9,3 +9,8 @@
 ### Run app:
 		
 1. execute "npm start" in terminal (testing)
+
+### Deploy App to Application Server
+
+1. execute "npm run build"
+1. execute "npm run sapupload" -> enter your SAP password
